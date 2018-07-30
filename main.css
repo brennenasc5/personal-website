@@ -1,0 +1,20 @@
+.daddy{
+    background: lightblue;
+}
+
+.header {
+    color: white;
+}
+
+.navigate {
+    background: pink;
+    display: flex;
+    height: 30%;
+    border-bottom: white double 1em;
+    border-top: white double 1em;
+
+}
+
+.navigate > h1{
+    margin: auto;
+}
